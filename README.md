@@ -39,17 +39,14 @@ My name is YI-CHAO (Evan) and I'm a engineering student studying IEOR at Univers
 
 ### Tools and More
 <p>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
-  <img alt="Android Studio" src="https://img.shields.io/badge/-Android_Studio-32de84?style=flat-square&logo=Android&logoColor=white" /> 
-  <img alt="Unity" src="https://img.shields.io/badge/Unity-00000F?style=flat-square&logo=Unity&logoColor=white" />
-<!--   <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-78C5EF?style=flat-square&logo=Xcode&logoColor=white" /> -->
-  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=white&style=flat-square" />
-  <img alt="InfluxDB" src="https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat-square&logo=InfluxDB&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" /> 
-  <img alt="pandas" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white" />
-  <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> 
+  <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" /> 
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+  <img alt="Leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=LarynQi&count_private=true&bg_color=60,CB218E,6617CB&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=TRUE) -->
