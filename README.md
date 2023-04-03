@@ -49,7 +49,7 @@ My name is YI-CHAO (Evan) and I'm a engineering student studying IEOR at Univers
   <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evan-dayy)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evan-dayy&count_private=true&show_icons=true&show_icons=true&theme=radical)
 
 
 ### Contact
