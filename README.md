@@ -3,25 +3,30 @@
 My name is YI-CHAO (Evan) and I'm a engineering student studying IEOR at University of California, Berkeley and an incoming Computer Science Student at Northeastern University. I'm passionate about exploring the intersections of finance, and technology. Here's what I've been up to recently:
 
 - 🏫 &nbsp; Learning Computer Security, Software Development, and Database System, and Computer Networking at UC Berkeley
-- 👨‍🏫 &nbsp; Teaching Cal's intro CS course, [CS61A](https://cs61a.org/), as a tutor and mentor
-- 💻 &nbsp; Building a full stack iOS app as a Software Developer in [Codebase](https://codebase.berkeley.edu/)
+- 💻 &nbsp; Building a full stack iOS app as a Software Developer in [Decal Cubstarts](http://www.cubstart.com/#/schedule)
 - 💼 &nbsp; Working as Software Development Engineer Intern at Sports Excitement this summer
 - 🏂 &nbsp; Learning snowboarding and enjoying powder snow!
 
 
 ### Languages
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
-  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### Frameworks
+
+<p>
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&style=flat-square" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat-square" />
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-  <img alt="Max" src="https://img.shields.io/badge/-Max-525252?style=flat-square&logo=Max&logoColor=white" />
 </p>
 
 ### Tools and More
