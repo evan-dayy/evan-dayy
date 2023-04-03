@@ -1,20 +1,5 @@
 # Hello! 👋
 
-<!--
-**LarynQi/LarynQi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 My name is YI-CHAO (Evan) and I'm a engineering student studying IEOR at University of California, Berkeley and an incoming Computer Science Student at Northeastern University. I'm passionate about exploring the intersections of finance, and technology. Here's what I've been up to recently:
 
 - 🏫 &nbsp; Learning Computer Security, Software Development, and Database System, and Computer Networking at UC Berkeley
@@ -66,12 +51,5 @@ My name is YI-CHAO (Evan) and I'm a engineering student studying IEOR at Univers
   
 </p>
 
-<!--
-  [`Website`](https://www.linkedin.com/in/evandai99/)
-  [`Resume`](https://www.linkedin.com/in/evandai99/)
-  [`Meeting`](https://www.linkedin.com/in/evandai99/)
--->
-
-<!-- <a href="https://larynqi.com" target="_blank"><code>Website</code></a>
 
 <!-- Inspired by @JuanesLamilla! (https://github.com/JuanesLamilla/JuanesLamilla)
