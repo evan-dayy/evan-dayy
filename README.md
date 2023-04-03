@@ -2,7 +2,7 @@
 
 My name is YI-CHAO (Evan) and I'm a engineering student studying IEOR at University of California, Berkeley and an incoming Computer Science Student at Northeastern University. I'm passionate about exploring the intersections of finance, and technology. Here's what I've been up to recently:
 
-- 🏫 &nbsp; Learning Computer Security, Software Development, and Database System, and Computer Networking at UC Berkeley
+- 🏫 &nbsp; Learning Computer Security, Software Development, Database System, and Computer Networking at UC Berkeley
 - 💻 &nbsp; Building a full stack iOS app as a Software Developer in [Decal Cubstarts](http://www.cubstart.com/#/schedule)
 - 💼 &nbsp; Working as Software Development Engineer Intern at Sports Excitement this summer
 - 🏂 &nbsp; Learning snowboarding and enjoying powder snow!
@@ -53,11 +53,11 @@ My name is YI-CHAO (Evan) and I'm a engineering student studying IEOR at Univers
 
 ### Contact
 <p>
-  Feel free to connect with me on LinkedIn or shoot me an email!
+  Feel free to connect with me on LinkedIn, shoot me an email, and follow me up at Instagram!
   
- <a href="https://www.linkedin.com/in/evandai99/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/evandai99/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:yichaoday_evan@berkeley.edu" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.instagram.com/_evan_day/" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   
-  <a href="mailto:yichaoday_evan@berkeley.edu" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  
   
 </p>
 
