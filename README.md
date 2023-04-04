@@ -49,7 +49,6 @@ My name is YI-CHAO (Evan) and I'm an engineering student studying IEOR at Univer
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evan-dayy&count_private=true&show_icons=true&show_icons=true&theme=radical)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=evan-dayy)](https://github.com/KnlnKS/leetcode-stats)
 
 ### Contact
 <p>
