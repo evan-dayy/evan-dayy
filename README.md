@@ -5,7 +5,7 @@ My name is YI-CHAO (Evan) and I'm an engineering student studying IEOR at Univer
 - 🏫 &nbsp; Learning Computer Security, Software Development, Database System, and Computer Networking at UC Berkeley
 - 💻 &nbsp; Building a full stack iOS app as a Software Developer in [Decal Cubstarts](http://www.cubstart.com/#/schedule)
 - 💼 &nbsp; Working as Software Development Engineer Intern at Sports Excitement this summer
-- 🏂 &nbsp; Learning snowboarding and enjoying powder snow!
+- 🏂 &nbsp; Learning snowboarding and enjoying powder snow! 
 
 
 ### Languages
