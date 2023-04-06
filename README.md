@@ -54,10 +54,13 @@ My name is YI-CHAO (Evan) and I'm an engineering student studying IEOR at Univer
 <p>
   Feel free to connect with me on LinkedIn, shoot me an email, and follow me up at Instagram!
   
- <a href="https://www.linkedin.com/in/evandai99/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:yichaoday_evan@berkeley.edu" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.instagram.com/_evan_day/" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/evandai99/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:yichaoday_evan@berkeley.edu" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.instagram.com/_evan_day/" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>  <a href="https://evan-dayy.github.io/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=green" /></a>
   
   
   
+  
+  
+
 </p>
 
 
