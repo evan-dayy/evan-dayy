@@ -1,10 +1,9 @@
 # Hi there! 👋
 
-My name is YI-CHAO (Evan) and I'm an engineering student studying IEOR at University of California, Berkeley and an incoming Computer Science Student at Northeastern University. I'm passionate about exploring the intersections of finance, and technology. Here's what I've been up to recently:
+My name is YI-CHAO (Evan) and I'm an engineering student studying IEOR at University of California, Berkeley and an Computer Science Student at Northeastern University. I'm passionate about exploring the intersections of finance, and technology. Here's what I've been up to recently:
 
 - 🏫 &nbsp; Learning Computer Security, Software Development, Database System, and Computer Networking at UC Berkeley 
-- 💻 &nbsp; Building a full stack iOS app as a Software Developer in [Decal Cubstarts](http://www.cubstart.com/#/schedule)
-- 💼 &nbsp; Working as Software Development Engineer Intern at a start-up company in San Francisco this summer
+- 💼 &nbsp; Working as Software Development Engineer Intern in Sillicon Valley this summer!
 - 🏂 &nbsp; Learning snowboarding and enjoying powder snow! 
 
 
