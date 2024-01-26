@@ -52,6 +52,9 @@ My name is YI-CHAO (Evan) and I'm an engineering student studying IEOR at Univer
 
 <!-- ![Evan's GitHub stats](https://github-readme-stats-uvmj-rn9i6akqx-evan-dayy.vercel.app/api?username=evan-dayy&count_private=true&show_icons=true&show_icons=true&theme=radical) -->
 
+[![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evan-dayy)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Contact
 <p>
   Feel free to connect with me on LinkedIn, shoot me an email, and follow me up at Instagram!
