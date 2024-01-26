@@ -1,4 +1,4 @@
-# Hi there! 👋
+## Hi there! 🤗
 
 My name is YI-CHAO (Evan) and I'm an engineering student studying IEOR at University of California, Berkeley and an Computer Science Student at Northeastern University. I'm passionate about exploring the intersections of finance, and technology. Here's what I've been up to recently:
 
