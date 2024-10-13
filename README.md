@@ -3,9 +3,10 @@
 My name is Evan and I'm an engineering student studying IEOR at _University of California, Berkeley_ and an Computer Science Student at _Northeastern University_. I'm passionate about exploring the intersections of finance, education, and technology. Here's what I've been up to recently:
 
 - 🏫 Learning Database System, Distributed System, and Computer Networking at CS@Northeastern!
-- 💼 Preparing as an incoming Software Engineering Intern!
+- 💼 Software Engineering Intern at Adobe & Google!
 - 🏂 Snowboarding at Reno Area and enjoying powder snow!
 - 🧑🏻‍🏫 Working as a TA and exploring CS-related education!
+- 🧑🏻‍💻 Software Engineer II at Adobe
 
 
 ### Languages
