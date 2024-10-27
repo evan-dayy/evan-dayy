@@ -6,7 +6,6 @@ My name is Evan and I'm an engineering student studying IEOR at _University of C
 - 💼 Software Engineering Intern at Adobe & Google!
 - 🏂 Snowboarding at Reno Area and enjoying powder snow!
 - 🧑🏻‍🏫 Working as a TA and exploring CS-related education!
-- 🧑🏻‍💻 Software Engineer II at Adobe
 
 
 ### Languages
