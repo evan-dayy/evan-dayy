@@ -1,11 +1,11 @@
 ## Hi there! 🤗
 
-My name is Evan and I'm an engineering student studying IEOR at _University of California, Berkeley_ and an Computer Science Student at _Northeastern University_. I'm passionate about exploring the intersections of finance, education, and technology. Here's what I've been up to recently:
+My name is Evan and I'm an engineering student studying IEOR at _University of California, Berkeley_ and an Computer Science Student at _Northeastern University_. I'm passionate about exploring the intersections of AI/ML Infra and Distributed System. Here's what I've been up to recently:
 
-- 🏫 Learning Database System, Distributed System, and Computer Networking at CS@Northeastern!
-- 💼 Software Engineering Intern at Adobe & Google!
+- 💼 ex-Software Engineer Intern at Adobe & Google!
+- 🧑🏻‍💻 incoming SDE II @ Adobe GenAI!!
 - 🏂 Snowboarding at Reno Area and enjoying powder snow!
-- 🧑🏻‍🏫 Working as a TA and exploring CS-related education!
+- 🧑🏻‍🏫 Working on a Startup idea powered by LLM and ML! yay!
 
 
 ### Languages
